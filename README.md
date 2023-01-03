@@ -26,4 +26,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-[Link to docs](https://app.clickup.com/9007017624/v/dc/8cdrbmr-23/8cdrbmr-43)
+[Link to docs](https://app.clickup.com/9007017628/v/dc/8cdrbmw-43/8cdrbmw-63)
